@@ -1,0 +1,2 @@
+alb_hostname = cb-load-balancer-903094835.eu-west-3.elb.amazonaws.com
+alb_hostname = cb-load-balancer-903094835.eu-west-3.elb.amazonaws.com
